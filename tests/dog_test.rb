@@ -71,8 +71,4 @@ class DogTest < Minitest::Test
    	dog.sex = "F"
     assert_equal("F", dog.sex)
   end
-
-
-
-
 end
