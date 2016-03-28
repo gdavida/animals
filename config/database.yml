@@ -1,0 +1,5 @@
+host: 'localhost'
+adapter: 'postgresql'
+database: 'animal-tracker'
+encoding: 'utf8'
+pool: 5
